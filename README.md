@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi !!!
+
+- I am a Ph.D. student in the Department of Mathematics at Tulane University.
+- My research area focuses on numerical semigroups and algebraic coding theory. Currently, I am working on developing the theory of unipotent numerical semigroups and writing computational programs for it.
+- Recently, I started jogging and playing badminton. I would be happy to play with new people.
+- To reach me, please email me at nsakran@tulane.edu or at naufilsakran@live.com.
+
 
 <!--
 **naufilsakran/naufilsakran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
